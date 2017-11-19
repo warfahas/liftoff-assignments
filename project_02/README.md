@@ -5,10 +5,10 @@
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
 
-* ![Add Employee Wireframe](/project_02/add employee.pdf)
+* ![Add Employee Wireframe](/project_02/addemployee.pdf)
 
 
-* ![Add Skill Wireframe](/project_02/add skill.pdf)
+* ![Add Skill Wireframe](/project_02/addskill.pdf)
 
 
 * ![Employees Wireframe](/project_02/employees.pdf)
