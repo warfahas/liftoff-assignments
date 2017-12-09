@@ -1,26 +1,26 @@
-#Attend a Meetup
+# Attend a Meetup
 
-##Name
+## Name
 
 Saint Louis Savvy Coders
 
-##Date
+## Date
 
 Dec 6, 2017
 
-##Time
+## Time
 
 6:30 PM to 8:00 PM
 
-##Topic
+## Topic
 
 Crash Course - Learn JavaScript
 
-##Brief description of topics
+## Brief description of topics
 
 The topics are HTML, CSS and JavaScript. HTML, CSS and JavaScript are used to create dynamic websites.
 
-##Questions for Meetup
+## Questions for Meetup
 
 * What is JavaScript
 
@@ -30,7 +30,7 @@ The topics are HTML, CSS and JavaScript. HTML, CSS and JavaScript are used to cr
 
 * How do HTML, CSS and JavaScript work together?
 
-##Next steps for continuing to learn about the topics
+## Next steps for continuing to learn about the topics
 
 I learned that JavaScript is a programming language that allows you to create interactive websites. HTML, 
 CSS and JavaScript each perform a different action. HTML is used for the structure of the website. CSS is 
