@@ -22,7 +22,7 @@ The topics are HTML, CSS and JavaScript. HTML, CSS and JavaScript are used to cr
 
 ## Questions for Meetup
 
-* What is JavaScript
+* What is JavaScript?
 
 * Where do you write JavaScript code?
 
